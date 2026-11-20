@@ -10,6 +10,10 @@
 > **Credits:** Based on [WebIn](https://github.com/avdeshjadon/WebIn) by **Avdesh Jadon** (original author).
 > Extended by **[Rajat Sankhyan](https://github.com/rajatsankhyan)** with Brave support, keyboard navigation, command palette, themes, sync, backup/import, notes and more (v2.1).
 
+<p align="center">
+  <img src="docs/screenshots/overlay.png" alt="WebIn overlay with Most used apps and categories" width="800">
+</p>
+
 ## ✨ Features
 
 | Feature | Description |
@@ -29,6 +33,16 @@
 | ⚙️ **Options Page** | All settings, also available from the browser's extension menu |
 | 🦁 **Brave & Chromium** | Works in Chrome, Brave, Edge; falls back to a popup window on internal pages |
 | 🛡️ **Zero Conflicts** | Shadow DOM isolation prevents style clashes |
+
+## 📸 Screenshots
+
+| Search across all categories | Switch to an open tab (`>`) |
+|---|---|
+| ![Search](docs/screenshots/search.png) | ![Tab switcher](docs/screenshots/tab-switcher.png) |
+| **Dark theme** | **Ocean theme** |
+| ![Dark theme](docs/screenshots/dark.png) | ![Ocean theme](docs/screenshots/ocean.png) |
+| **Notes & To-do** | **Settings** |
+| ![Notes and to-do](docs/screenshots/notes.png) | ![Settings](docs/screenshots/settings.png) |
 
 ## 🎯 Why WebIn?
 
