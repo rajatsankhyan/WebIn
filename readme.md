@@ -1,11 +1,14 @@
 # WebIn - Quick Access Browser Extension
 
 ![Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)
-![Version](https://img.shields.io/badge/version-2.0.0-green)
+![Version](https://img.shields.io/badge/version-2.1.0-green)
 ![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-4285F4?logo=googlechrome)
 ![Manifest V3](https://img.shields.io/badge/Manifest-V3-blue)
 
 **WebIn** is a sleek, retro-styled browser extension that gives you instant access to your favorite websites through a customizable overlay dashboard. No more cluttered bookmarks or endless tab searching.
+
+> **Credits:** Based on [WebIn](https://github.com/avdeshjadon/WebIn) by **Avdesh Jadon** (original author).
+> Extended by **[Rajat Sankhyan](https://github.com/rajatsankhyan)** with Brave support, keyboard navigation, command palette, themes, sync, backup/import, notes and more (v2.1).
 
 ## ✨ Features
 
@@ -104,7 +107,7 @@ This software is the exclusive property of [Avdesh Jadon](https://github.com/avd
 
 See [LICENSE](LICENSE) for full details.
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
 <table>
   <tr>
@@ -112,7 +115,13 @@ See [LICENSE](LICENSE) for full details.
       <strong>Avdesh Jadon</strong><br>
       <a href="https://github.com/avdeshjadon">GitHub</a> •
       <a href="https://linkedin.com/in/avdeshjadon">LinkedIn</a> •
-      <a href="mailto:theavdeshjadon@gmail.com">Email</a>
+      <a href="mailto:theavdeshjadon@gmail.com">Email</a><br>
+      <sub>Original author</sub>
+    </td>
+    <td align="center">
+      <strong>Rajat Sankhyan</strong><br>
+      <a href="https://github.com/rajatsankhyan">GitHub</a><br>
+      <sub>v2.1 extensions</sub>
     </td>
   </tr>
 </table>
